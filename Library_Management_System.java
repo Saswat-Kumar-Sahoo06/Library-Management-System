@@ -87,7 +87,7 @@
          System.out.println("Issue book details:"+this.issueDetails);
      }
  }
- public class Solution {
+ public class Library_Management_System {
  
      public static void main(String[] args) {
          System.out.println("**-- CENTRAL LIBRARY --**");
